@@ -17,8 +17,6 @@ let resultadoDos = 0,
 	resultadoOnce = 0,
 	resultadoDoce = 0;
 
-console.log(resultados);
-
 for (let i = 0; i < resultados.length; i++) {
 	switch (resultados[i]) {
 		case 2:
